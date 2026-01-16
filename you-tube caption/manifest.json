@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Caption Disabler",
+  "version": "1.0",
+  "description": "Permanently disables YouTube captions",
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
