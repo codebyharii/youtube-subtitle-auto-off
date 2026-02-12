@@ -8,3 +8,4 @@ function disableCaptions() {
 
 setTimeout(disableCaptions, 2000);
 setInterval(disableCaptions, 3000);
+
