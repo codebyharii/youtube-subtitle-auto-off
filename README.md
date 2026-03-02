@@ -69,7 +69,7 @@ This extension monitors the YouTube video player and turns subtitles off wheneve
   3. Enable **Developer Mode** (top-right corner)
 4. Click **Load unpacked**
 5. Select the extracted extension folder
-6. use it
+6. use it.
 
 
 
